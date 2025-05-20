@@ -1,4 +1,4 @@
- # 📌𝚂𝚄𝙷𝙰𝚂 𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝚅𝚎𝚛𝚜𝚒𝚘𝚗-9.0.0 ( 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 ) 🔖
+ # 📌QUEEN ELISA MULTIDEVICE WHATSAPP BOT  🔖
 <p align="center">
 💡✨𝙎𝙐𝙃𝘼𝙎-𝙈𝘿 𝙒𝙚𝙗 𝙎𝙞𝙩𝙚.✨💡
 <p align="center">
