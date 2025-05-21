@@ -51,11 +51,11 @@ ex :- 258833406646
 <p align="center">
 🌈 𝗦𝗘𝗥𝗩𝗘𝗥 1 🌈
  <p align="center">
-<a href="https://suhas-md-v9-pair-code.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>  
+<a href="https://elisa-session-id.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>  
  <p align="center">
 🌈 𝗦𝗘𝗥𝗩𝗘𝗥 2 🌈
   <p align="center">
-<a href="https://suhas-md-v9-pair-code.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://elisa-session-id.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### DEPLOY ON RENDER
