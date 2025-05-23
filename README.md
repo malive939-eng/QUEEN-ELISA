@@ -13,7 +13,7 @@ https://chat.whatsapp.com/BFDXnaUCQKqInxGq8LxUvo
 💚බොට් හදාගත්ත අය මේ ගෘෘප් එකට ජොයින් වෙන්න.🙃❤
 <p align="center">
 💚 You Are Deploy QUEEN ELISA Bot Join Our WhatsApp Group.🙃❤
-<img src="https://files.catbox.moe/hwwr6w.jpg" height="90" width="100%">
+<img src="https://files.catbox.moe/48hh4b.jpg" height="90" width="100%">
 
 <div align="center">
 
@@ -24,7 +24,7 @@ https://chat.whatsapp.com/BFDXnaUCQKqInxGq8LxUvo
 <p align="center">
 ex :- 258833406646
  
-   <a><img src='https://files.catbox.moe/hwwr6w.jpg'/></a><a>
+   <a><img src='https://files.catbox.moe/48hh4b.jp'/></a><a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ELISA-+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AYAN+MODZ;RELEASED+DATE+20%2F05%2F2025." alt="Typing SVG" /></a>
@@ -36,7 +36,7 @@ ex :- 258833406646
  
 ## MY YT CHANNEL
 
-[![Youtube](https://files.catbox.moe/hwwr6w.jpg)](https://youtube.com/@ayanseven) 
+[![Youtube](https://files.catbox.moe/48hh4b.jp)](https://youtube.com/@ayanseven) 
 
 </details>
 
