@@ -1,10 +1,10 @@
  # 📌QUEEN ELISA MULTIDEVICE WHATSAPP BOT  🔖
 <p align="center">
-💡✨𝙎𝙐𝙃𝘼𝙎-𝙈𝘿 𝙒𝙚𝙗 𝙎𝙞𝙩𝙚.✨💡
+💡✨QUEEN ELISA MD✨💡
 <p align="center">
 https://www.atom.bio/ayanmodz
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️Queen%20Elisa🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Suhas%20Pathsindu.🥰)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️Queen%20Elisa🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Ayan%20Modz🥰)
 <p align="center">
 🧚‍♂️QUEEN ELISA Support Group💕
 <p align="center">
