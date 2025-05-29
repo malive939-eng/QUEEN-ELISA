@@ -111,7 +111,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 > Queen Elisa Bot Owner 
-- [Tonic Munodawafa](https://github.com/ayanmdoz)
+- [ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ](https://github.com/ayanmdoz)
 - Creator, founder and Owner Of TO QUEEN ELISA WHATSAPP BOT AND ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ Iɴᴄ.
 
 <p align="center">
