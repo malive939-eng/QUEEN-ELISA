@@ -6,22 +6,67 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "kW1hVYaQ#9V76sxTLPRmAqzRaPILuwKCJSg6uILqRqkrcW5ks0zU", // 📌 𝗚𝗲𝘁 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗶𝗱 𝗶𝗻 𝗦𝗨𝗛𝗔𝗦-𝗠𝗗 𝗣𝗮𝗶𝗿 𝗦𝗶𝘁𝗲 📌
-SUDO_NB: process.env.SUDO_NB || "258833406646", // 𝗔𝗱𝗱 𝗬𝗼𝘂𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 𝗛𝗲𝗿𝗲 𝗪𝗶𝘁𝗵 𝗖𝗼𝘂𝗻𝘁𝗿𝘆 𝗖𝗼𝗱𝗲
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", // 📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
+SESSION_ID: process.env.SESSION_ID || "SsIlQZhL#BdaVo510xYsKvr0k-1rAa9hxpl_g9Eb1ro2nEAiRxDU", // 📌 𝗚𝗲𝘁 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗶𝗱 𝗶𝗻 𝗦𝗨𝗛𝗔𝗦-𝗠𝗗 𝗣𝗮𝗶𝗿 𝗦𝗶𝘁𝗲 📌
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
+// make true or false status auto seen
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+// make true if you want auto reply on status 
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+// make true if you want auto reply on status 
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || ".✓",
+// set the auto reply massage on status reply  
+PREFIX: process.env.PREFIX || ".",
+// add your prifix for bot   
+BOT_NAME: process.env.BOT_NAME || "QUEEN-ELISA",
+// add bot namw here for menu
+STICKER_NAME: process.env.STICKER_NAME || "QUEEN-ELISA",
+// type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
-// automatic delete links witho remove member
- AUTO_REACT: process.env.AUTO_REACT || "true",
-// make this true or false for auto react on all msgs
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/hwwr6w.jpg",
- AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-// make true if you want auto reply on status 
+// automatic delete links witho remove member 
+OWNER_NUMBER: process.env.OWNER_NUMBER || "258833406646",
+// add your bot owner number
+OWNER_NAME: process.env.OWNER_NAME || "ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ",
+// add bot owner name
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ*",
+// add bot owner name    
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/v6zfno.jpg",
 // add img for alive msg
-OWNER_NUMBER: "258833406646",
-MODE: process.env.MODE || "public", // 📌 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗼𝗿 𝗽𝘂𝗯𝗹𝗶𝗰 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
-OWNER_REACT: process.env.OWNER_REACT || "🔆",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar undefined*⚡",
+// add alive msg here 
+READ_MESSAGE: process.env.READ_MESSAGE || "false",
+// Turn true or false for automatic read msgs
+AUTO_REACT: process.env.AUTO_REACT || "true",
+// make this true or false for auto react on all msgs
+ANTI_BAD: process.env.ANTI_BAD || "true",
+// false or true for anti bad words  
+MODE: process.env.MODE || "public",
+// make bot public-private-inbox-group 
+ANTI_LINK: process.env.ANTI_LINK || "false",
+// make anti link true,false for groups 
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
+// make true for send automatic voices
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
+// make true for automatic stickers 
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
+// make true or false automatic text reply 
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+// maks true for always online 
+PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+// make false if want private mod
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
+// true for automatic show typing   
+READ_CMD: process.env.READ_CMD || "false",
+// true if want mark commands as read 
+DEV: process.env.DEV || "258833406646",
+//replace with your whatsapp number        
+ANTI_VV: process.env.ANTI_VV || "true",
+// true for anti once view 
+ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
+// change it to 'same' if you want to resend deleted message in same chat 
+AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
+// make it true for auto recoding 
 };

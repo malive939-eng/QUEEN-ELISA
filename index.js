@@ -21,12 +21,12 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['258833406646']
+const ownerNumber = ['258875288985']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/QUEEN_ELISA_SESSION/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID
+const sessdata = config.SESSION_ID.replace("QUEEN-ELISA~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -73,7 +73,7 @@ console.log('💕 QUEEN ELISA ❤')
 
 let up = `👋 QUEEN ELISA Connected Successful 🤖✅*\n⦁ PREFIX: ${prefix}\n⦁ Main CMD: .menu/.allmenu\n⦁ Bot Main Owner : Mr Ayan modz\n⦁ Total CMD: 200+\n\n*➟➟➟➟➟➟➟➟➟➟➟➟➟➟➟*\n\n*🏮ꜱᴜʙꜱᴄʀɪʙᴇ ᴜꜱ* ➟https://youtube.com/@ayanseven\n\n*💡ꜰᴏʟʟᴏᴡ ᴜꜱ* ➟https://whatsapp.com/channel/0029Vb6KS7MGk1FnsSiliX0P\n\n*✨ᴡᴇʙ ꜱɪᴛᴇ* ➠ https://www.atom.bio/ayanmodz/\n\n*🎉ᴛᴇʟᴇɢʀᴀᴍ* ➠https://t.me/ayanseven\n\n*➟➟➟➟➟➟➟➟➟➟➟➟➟➟➟*\n\n\n*_🗣️Sʜᴇʀᴇ Oᴜʀ YᴏᴜTᴜʙᴇ Cʜᴀɴɴᴇʟ Lɪɴᴋ & WʜᴀᴛꜱAᴘᴘ Cʜᴀɴɴᴇʟ Lɪɴᴋ Wɪᴛʜ Yᴏᴜʀ Fʀɪᴇɴᴅꜱ...💙_*\n\n> *✨ Powered By QUEEN ELISA 💞*`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/hwwr6w.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/v6zfno.jpg` }, caption: up })
 
 }
 })
